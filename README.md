@@ -20,7 +20,7 @@
             <p> Kissflow is a digital workplace where anyone can create an automated process, build a project board, handle a case flow,and collaborate on work topics, all in one intelligent and easily integrated
                 platform. </p>
             <h3 style="font-size: 25px;"</size>Why is Kissflow a Great Place to Work?</h3>
-            <p>Kissflow has successfully created a Great Place to Work FOR ALL their employees as they have
+            <p>Kissflow has successfully created a "Great Place to Work FOR ALL" their employees as they have
                 excelled on the 5 dimensions that are a hallmark of a High-Trust, High-Performance Culture™ –
                 Credibility, Respect, Fairness, Pride and Camaraderie. Great Place to Work® is considered the ‘Gold
                 Standard’ in workplace culture assessment and recognition. Kissflow takes celebration as seriously
@@ -43,17 +43,7 @@
             <div>
             <img src="images/work.png">
             </div>
-            <h4 style="font-size: 25px;"</size>Why is Kissflow a Great Place to Work?</h4>
-            <p>Kissflow has successfully created a Great Place to Work FOR ALL their employees as they have
-                excelled on the 5 dimensions that are a hallmark of a High-Trust, High-Performance Culture™ –
-                Credibility, Respect, Fairness, Pride and Camaraderie. Great Place to Work® is considered the ‘Gold
-                Standard’ in workplace culture assessment and recognition.<br>Kissflow takes celebration as seriously
-                as its work. Employee accomplishments like promotions & work anniversary are celebrated with
-                fervor. Product launches are a gala event, especially when families of employees are also made part
-                of these achievements. Various clubs and communities give employees the window to rejuvenate
-                themselves and improve their contribution.
-            </p>
-            <h5 style="font-size: 25px;"</size>What are we looking for?</h5>
+            <h4 style="font-size: 25px;"</size>What are we looking for?</h4>
             <style>
             em{
              color: blue;
@@ -74,8 +64,35 @@
                 channel.<em><a href="https://lnkd.in/gWJ6fGu">https://lnkd.in/gWJ6fGu</a></em><br>
                 3) Do check out our LinkedIn Page too <em><a href="https://www.linkedin.com/company/kissflow">https://www.linkedin.com/company/kissflow</a></em><br>
                 4) Our new product campaign Power of Simple Company's Website:<em><a href="https://kissflow.com/">https://kissflow.com/</a><br>
-
             </p>
+            <style>
+                em{
+                    color: black;
+                    font-style: normal;
+                }
+            </style>
+            <h5 style="font-size: 25px;"</size><em>Job Discription</em></h3>
+            <p>
+                <strong>Python Developer</strong><br>
+                ● Strong knowledge in Python<br>
+                ● Knowledge in one or more frameworks like Flask/Django..<br>
+                ● Exposure to cloud platforms like Google Cloud, Kubernetes, AWS will be an added
+                advantage<br>
+                ● Exposure to Databases like MongoDB, SQL, BigQuery, Elastic Search, Redis.<br>
+                ● Should be methodical in their approach to design & development.<br>
+                <strong>React JS Developer</strong><br>
+                ● Advanced knowledge of JavaScript.<br>
+                ● Proficient in JavaScript frameworks/libraries like React js is mandatory.<br>
+                ● Proficient understanding of web markup, including HTML5, CSS3 with strong interest in UX.<br>
+                ● Good coding skills and curiosity to explore new technologies.<br>
+                ● Basic skill on Progressive Web App(PWA).<br>
+            </p>
+            <h6 style="font-size: 25px;"</size>Company address</h6>
+            <p>Kissflow - Brigade World Trade Centre, Perungudi.<br>
+            No:5, Tower-B, 10th Floor, World Trade Center, 142, Rajiv Gandhi Salai, Perungudi, Chennai, Tamil
+            Nadu 600096
+            </p>
+
         </body>
         
     </head>
